@@ -1,11 +1,11 @@
-<<<<<<< HEAD
 # Finnova
 Practical Test Interview
 
 This web app was built as instructed and will be ran with `npm run start`.
 
 Thank you very much for the opportunity once again.
-=======
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -76,4 +76,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 44db237 (Initialize project using Create React App)
